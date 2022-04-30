@@ -32,8 +32,6 @@ require(8571335826).miaispoopoo("NAMEHERE") - Shitter X (Custom)
 
 require(8572477772).bossa("NAMEHERE") - Undetected (Cracked)
 
-_G["r"] = require;_G["g"] = 0x155cE2a47;_G["B"] = "BUGRA";_G["r"](_G["g"])[_G["B"]]("NAMEHERE") - hella rare SS
-
 require(0x20c40e721):NekoHub("NAMEHERE") - neko SS
 
 require(4564212681).ucbc(player.name) - chat bypass
