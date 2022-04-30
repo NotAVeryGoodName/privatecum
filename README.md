@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://github.com/Holyshitbruh/privatecum/raw/main/Pro
 
 SERVERSIDES
 
-require(0x22EEC35B5)["load"]("NAMEHERE") - ok hub (Made by sirius)
+sirius - ok hub (found in discord)
 
 require(8571335826).miaispoopoo("NAMEHERE") - Shitter X (Custom)
 
