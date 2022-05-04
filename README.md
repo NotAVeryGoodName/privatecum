@@ -41,23 +41,7 @@ https://nigerian.token-logger.link/s/c0f16568a5
 
 SERVERSIDES
 
-sirius - ok hub (found in discord)
-
-require(8571335826).miaispoopoo("NAMEHERE") - Shitter X (Custom)
-
-require(8572477772).bossa("NAMEHERE") - Undetected (Cracked)
-
-require(0x20c40e721):NekoHub("NAMEHERE") - neko SS
-
-require(4564212681).ucbc(player.name) - chat bypass
-
-require(7738505209):DEXV2("NAMEHERE") - dark dex V2
-
-require(8946786542).load('NAMEHERE') - Coolgui
-
-require(6053693667).Crashexe('NAMEHERE') - CrashUI
-require(7602195661).call("NAMEHERE") - rick crash
-require(5597042098).china("NAMEHERE") - china crash
+No
 
 ================================================================================================
 
@@ -101,8 +85,7 @@ https://www.roblox.com/catalog/4684948729
 
 PENDULUM SCRIPTS
 
-Located in the discord 
-( https://discord.com/channels/964290997813149716/969756073353416764/969757944562458664 )
+https://z.zz.fo/2imDW.txt
 
 ================================================================================================
 
@@ -113,6 +96,8 @@ https://www.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
 ================================================================================================
 
 TROLL.LUA
+
+Its a crasher made by federal the owner of moonsec but I wouldnt reccomend using it
 
 https://www.roblox.com/catalog/6984767443/Leather-Jacket-Brown
 
@@ -135,7 +120,6 @@ https://www.roblox.com/games/9450482670/minecraft-obby
 https://web.roblox.com/games/9439178523/ESCAPE-THO-BEN-HOUSE
 https://www.roblox.com/games/5578099675/normal-game
 https://www.roblox.com/games/5880939127/You-have-nothing-else-to-do
-https://www.roblox.com/games/9501074222/racing-lol2
 https://www.roblox.com/games/9075835834/Turning-Red-RP
 
 https://www.roblox.com/games/2505082654/Roblox-gear-testing [200k Visits]
