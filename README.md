@@ -1,6 +1,6 @@
 # privatecum
 
-Everything will be located in the discord and updated more consistently here you monkeys
+Everything will be located in the discord more consistently than here you monkeys
 
  got fucking angry of script hubs like "Yokes hub" loading random ass scripts that people dont even now if works or are patched
 so I made kys central with scripts that I know that works and are unpatched/updated 
